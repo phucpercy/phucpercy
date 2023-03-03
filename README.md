@@ -1,2 +1,3 @@
   I'm a Full-stack software engineer with nearly 3 years experience in Web Developmet 👨🏻‍💻. I would like solving problems for challenging tasks and learning new technologies and tools, because I believe with knowledge I can bring best experience for users. I also love to share knowledge and experience to people around me. I prefer a command line interface environment as a big fan of Vim, Linux, and macOS. Always trying to customize to find the most optimal environment 🛠️.
+  
   My biggest strength would be adaptable quickly and learning new things quickly. I'm able to work well in teams as well as individually. My goal is becoming to a senior full-stack developer and has opportunity to work as a global develper 🌐.
